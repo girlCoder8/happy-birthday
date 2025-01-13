@@ -1,25 +1,22 @@
 {
-  "name": "birthday",
+  "name": "happy-birthday",
   "version": "1.0.0",
-  "description": "Birthday greetings..",
+  "description": "Birthday greetings to you..",
   "main": " ",
   "scripts": {
     "server-node": "http-server -p 8081"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/girlCoder8/happy-birthday.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
-  },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "author": "batgirl",
+  "license": "MIT",
+  "homepage": "https://github.com/girlCoder8/birthday#readme",
   "dependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^14.1.1"
   }
 }
